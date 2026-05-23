@@ -108,7 +108,7 @@ I specialize in developing websites, mobile apps, automation systems, and custom
 
 <br>
 
-<img width="1254" height="1254" alt="ChatGPT Image May 23, 2026, 08_08_36 PM" src="https://github.com/user-attachments/assets/c9d81592-6689-4399-b56b-25f5c93fa2f8" />
+<img width="1122" height="1402" alt="ChatGPT Image May 23, 2026, 11_23_47 PM" src="https://github.com/user-attachments/assets/93e7c8b8-a308-435b-8179-825afd7fc238" />
 
 </td>
 
