@@ -247,6 +247,49 @@ Educational streaming & learning platform.
 </div>
 
 ---
+# MalwareX
+# 📱 Published Application
+
+<p align="center">
+  <img width="480" height="480" alt="unnamed" src="https://github.com/user-attachments/assets/232cbf35-2551-4e07-a72f-8ea8dc45151f" />
+</p>
+
+<h2 align="center">MalwareX</h2>
+
+<p align="center">
+AI-Powered Android Cybersecurity Application focused on intelligent threat detection, phishing protection, malware analysis, and secure digital experiences.
+</p>
+
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.malwarex.app&pcampaignid=web_share">
+  <img src="https://img.shields.io/badge/📥%20Download-Google%20Play-success?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🔥 Key Features
+
+✨ AI-Based Malware Detection
+🛡️ Real-Time Threat Monitoring
+🌐 Phishing Website Detection
+📊 Security Analysis Dashboard
+⚡ Smart Alerts & Risk Detection
+🔒 Network Security Monitoring
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android"/>
+
+  <img src="https://img.shields.io/badge/Built%20With-Flutter-02569B?style=for-the-badge&logo=flutter"/>
+
+  <img src="https://img.shields.io/badge/AI-Machine%20Learning-FF6F00?style=for-the-badge"/>
+</p>
+
+---
+
 
 # 📊 GitHub Analytics
 
