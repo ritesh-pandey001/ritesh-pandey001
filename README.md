@@ -1,16 +1,26 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&height=70&lines=Hi+👋,+I'm+Ritesh+Pandey;Founder+of+RITS+Development+Services;AI+Developer+%7C+Cybersecurity+Researcher;Building+Next+Generation+Intelligent+Systems;Flutter+%7C+AI+%7C+Python+%7C+Cybersecurity;Welcome+to+My+GitHub+Universe+🚀" />
-</h1>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Ritesh+Pandey;Software+Developer+%7C+Full+Stack+Developer;App+Developer+%7C+Automation+Expert;Building+Modern+Digital+Products;Flutter+%7C+Python+%7C+Web+Development;Turning+Ideas+Into+Reality+🚀" />
+
+</div>
 
 <h3 align="center">
-🚀 AI Developer • Cybersecurity Enthusiast • Intelligent Systems Engineer • Founder @ RITS Development Services
+🚀 Software Developer passionate about Websites, Apps, Automation & Modern Digital Solutions
 </h3>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,25:007CF0,50:7928CA,75:FF0080,100:00F7FF&height=260&section=header&text=RITESH%20PANDEY&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20|%20Cybersecurity%20Researcher%20|%20Flutter%20Developer&descAlignY=58&descSize=20"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656971-9a4c4c66-5c6f-4f7d-b0d0-7f6f7cbce4d7.gif" width="100%"/>
 
 </div>
 
@@ -18,170 +28,221 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=ritesh-pandey001&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/ritesh-pandey001?style=for-the-badge&logo=github&color=2563eb&labelColor=111827" />
+
+<img src="https://img.shields.io/github/stars/ritesh-pandey001?style=for-the-badge&logo=github&color=facc15&labelColor=111827" />
+
+<img src="https://img.shields.io/badge/AVAILABLE-FOR%20WORK-22c55e?style=for-the-badge&labelColor=111827" />
+
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEVELOPMENT-7c3aed?style=for-the-badge&labelColor=111827" />
+
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-CONTRIBUTOR-0ea5e9?style=for-the-badge&labelColor=111827" />
 
 </div>
+
+---
+# 🚀 About Me
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="60%">
+
+# 👨‍💻 Ritesh Pandey
+
+### 💡 Software Developer • App Developer • Automation Expert
+
+I'm a passionate developer who loves building modern digital products that solve real-world problems.  
+I specialize in developing websites, mobile apps, automation systems, and custom software solutions with clean UI, scalable architecture, and modern technologies.
+
+---
+
+## ⚡ What I Do
+
+🌐 Modern & Responsive Websites  
+📱 Android & Cross-Platform Apps  
+🤖 WhatsApp Automation Systems  
+⚙ Custom Software Solutions  
+🔥 Full Stack Web Applications  
+☁ Backend Development & APIs  
+🎨 Modern UI/UX Design  
+🧠 AI Integrations & Smart Features  
+
+---
+
+## 🚀 Current Focus
+
+- Building scalable digital products
+- Developing automation systems
+- Creating modern business websites
+- Developing Flutter applications
+- Backend APIs & integrations
+- AI-powered features & systems
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ritesh-pandey001&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20Flutter-38BDF8?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/ritesh-pandey001?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Firebase-22C55E?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/ritesh-pandey001?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" />
+<img src="https://img.shields.io/badge/Automation-WhatsApp%20Bots-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Cybersecurity-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-F97316?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge" />
+</div>
+
+</td>
+
+<td width="40%" align="center">
+<img width="1254" height="1254" alt="PHOTO-2026-05-23-20-03-03" src="https://github.com/user-attachments/assets/ebb1da9d-636c-420b-8202-aacb54bc6c9a" />
+
+<br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+<br>
+
+<img width="1254" height="1254" alt="ChatGPT Image May 23, 2026, 08_08_36 PM" src="https://github.com/user-attachments/assets/c9d81592-6689-4399-b56b-25f5c93fa2f8" />
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
+---
+
+# 🌟 Services & Solutions
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="70"/>
+
+### 🌐 Website Development
+
+Modern, responsive & business-ready websites with premium UI.
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="70"/>
+
+### 📱 App Development
+
+Android & cross-platform mobile applications using Flutter.
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006555.png" width="70"/>
+
+### 🤖 Automation
+
+WhatsApp automation, workflow automation & smart systems.
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="70"/>
+
+### ⚙ Custom Software
+
+Tailored software solutions for businesses & startups.
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# ⚡ About Me
-
-<img align="right" alt="AI" width="420" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif">
-
-```yaml
-Name: Ritesh Pandey
-Role: AI Developer & Cybersecurity Researcher
-Company: RITS Development Services
-Location: India 🇮🇳
-
-Specialization:
-  - Artificial Intelligence
-  - Machine Learning
-  - Flutter App Development
-  - Intelligent Security Systems
-  - Computer Vision
-  - Deep Learning
-  - Cloud Computing
-```
-
-- 🔭 Currently building intelligent AI-powered cybersecurity applications
-
-- 🌱 Learning Deep Learning, Generative AI, Cloud Computing & Advanced Cybersecurity
-
-- 👯 Looking to collaborate on AI, ML, Flutter & Security Projects
-
-- ⚡ Passionate about building futuristic intelligent products
-
-- 🧠 Exploring:
-  - Malware Detection Systems
-  - AI Assistants
-  - Deepfake Detection
-  - Computer Vision
-  - Smart Healthcare Systems
-  - Intelligent Legal Platforms
-
----
-
-# 🌌 Vision
+# 🛠 Tech Stack
 
 <div align="center">
 
-> ### “Creating intelligent systems that make technology smarter, safer, and more human.”
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,firebase,react,nextjs,nodejs,express,mongodb,mysql,js,ts,html,css,tailwind,figma,git,github,docker,java,kotlin,cpp,vscode,postman&perline=8" />
 
 </div>
 
 ---
 
-# 🚀 AI Projects Universe
+# ⚡ Development Tools
 
 <div align="center">
 
-| 🚀 Project | 🔥 Description | 🛠 Tech |
-|---|---|---|
-| 🛡 MalwareX | AI-powered malware detection & cybersecurity system | Python, ML, Security |
-| 🤖 Aiyra | Intelligent AI assistant with voice & healthcare support | AI, NLP, Flutter |
-| ⚖ AfterLaw | Legal AI learning platform | Flutter, Firebase |
-| 🎓 EduPlay | AI-powered educational streaming platform | Flutter, Backend |
-| 🔍 lieGo | Smart legal assistant with AI | AI, Gemini API |
-| 🌐 Universe ERP | Enterprise resource management ecosystem | Full Stack |
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ritesh-pandey-1b01b628a" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="60" />
-</a>
+<table>
+<tr>
 
-<a href="mailto:riteshpandey.2143@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="60" />
-</a>
+<td align="center">
 
-<a href="https://github.com/ritesh-pandey001">
-<img src="https://skillicons.dev/icons?i=github" height="60" />
-</a>
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="80"/>
 
-<a href="https://ritesh-portfolio-inky.vercel.app">
-<img src="https://img.icons8.com/fluency/96/domain.png" height="60"/>
-</a>
+### 🤖 Aiyra
 
-</div>
+AI-powered intelligent virtual assistant.
 
----
+</td>
 
-# 💻 Tech Stack & Tools
+<td align="center">
 
-<div align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/4241/4241030.png" width="80"/>
 
-<img src="https://skillicons.dev/icons?i=python,flutter,dart,firebase,java,kotlin,cpp,c,js,ts,react,nodejs,express,mongodb,mysql,postgresql,docker,kubernetes,linux,git,github,tensorflow,pytorch,opencv,figma,aws,azure,bash,html,css,tailwind&perline=10" />
+### 🛡 MalwareX
 
-</div>
+Advanced malware detection & monitoring system.
 
----
+</td>
 
-# ⚔ Cybersecurity Arsenal
+<td align="center">
 
-<div align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="80"/>
 
-<img src="https://img.shields.io/badge/Malware%20Analysis-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" />
+### 🎓 EduPlay
 
-<img src="https://img.shields.io/badge/Threat%20Detection-0A66C2?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+Educational streaming & learning platform.
 
-<img src="https://img.shields.io/badge/Network%20Security-111827?style=for-the-badge&logo=cisco&logoColor=white" />
+</td>
 
-<img src="https://img.shields.io/badge/AI%20Security-7928CA?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Phishing%20Detection-success?style=for-the-badge" />
-
-</div>
-
----
-
-# 🤖 AI & ML Domains
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Deep%20Learning-7928CA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer%20Vision-00C853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-FF0080?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NLP-007CF0?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Automation-00F7FF?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ritesh-pandey001&theme=tokyonight&no-frame=true&row=2&column=4" />
+</tr>
+</table>
 
 </div>
 
@@ -191,9 +252,27 @@ Specialization:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ritesh-pandey001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritesh-pandey001&theme=tokyonight" width="100%"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh-pandey001&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ritesh-pandey001&theme=tokyonight" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ritesh-pandey001&theme=tokyonight&utcOffset=8" width="49%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritesh-pandey001&theme=tokyonight" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ritesh-pandey001&theme=tokyonight" width="49%"/>
 
 </div>
 
@@ -201,17 +280,26 @@ Specialization:
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-pandey001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh-pandey001&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh-pandey001&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=38BDF8&point=ffffff&color=38BDF8" width="100%" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh-pandey001&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ritesh-pandey001&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -221,44 +309,37 @@ Specialization:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 ---
 
-# 🔥 Developer Activity
+# 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritesh-pandey001&theme=tokyonight" width="100%" />
+<a href="https://github.com/ritesh-pandey001">
+<img src="https://skillicons.dev/icons?i=github" height="65"/>
+</a>
+
+<a href="https://linkedin.com/in/ritesh-pandey-1b01b628a">
+<img src="https://skillicons.dev/icons?i=linkedin" height="65"/>
+</a>
+
+<a href="mailto:riteshpandey.2143@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="65"/>
+</a>
+
+<a href="https://ritesh-portfolio-inky.vercel.app">
+<img src="https://img.icons8.com/fluency/96/domain.png" height="65"/>
+</a>
 
 </div>
 
 ---
 
-# ☕ Coding Vibes
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
-
-</div>
-
----
-
-# 🎯 Goals for 2026
-
-✅ Build advanced AI systems  
-✅ Develop intelligent cybersecurity platforms  
-✅ Create impactful AI healthcare systems  
-✅ Launch scalable SaaS products  
-✅ Contribute more to open source  
-✅ Build futuristic intelligent applications  
-
----
-
-# 💡 Random Dev Quote
+# 💬 Random Dev Quote
 
 <div align="center">
 
@@ -267,6 +348,16 @@ Specialization:
 </div>
 
 ---
+
+# ☕ Coding Vibes
+
+<div align="center">
+<img width="60%" height="1254" alt="ChatGPT Image May 23, 2026, 08_05_34 PM" src="https://github.com/user-attachments/assets/6a47ca9b-7aaa-430e-ac79-d6e1d71cbe9d" />
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Turning+Ideas+Into+Digital+Reality;Full+Stack+Developer+🚀;Apps+%7C+Websites+%7C+Automation;Always+Learning+New+Technologies" />
+
+</div>
 
 # 📫 Contact Information
 
@@ -280,8 +371,8 @@ Specialization:
 💼 LinkedIn:  
 **https://linkedin.com/in/ritesh-pandey-1b01b628a**
 
-📱 Focus Areas:  
-**AI • Cybersecurity • Flutter • Intelligent Systems**
+🚀 Services:  
+**Web Development • App Development • Automation • Custom Software**
 
 </div>
 
@@ -289,8 +380,6 @@ Specialization:
 
 <div align="center">
 
-## 🚀 “Building Intelligent Solutions For The Future.” 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,25:007CF0,50:7928CA,75:FF0080,100:00F7FF&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0f172a,50:2563eb,100:7c3aed"/>
 
 </div>
